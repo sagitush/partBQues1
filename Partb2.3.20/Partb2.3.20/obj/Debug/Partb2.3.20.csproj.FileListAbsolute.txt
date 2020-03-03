@@ -1,0 +1,7 @@
+C:\Users\sagit\Source\Repos\Partb2.3.20\Partb2.3.20\bin\Debug\Partb2.3.20.exe.config
+C:\Users\sagit\Source\Repos\Partb2.3.20\Partb2.3.20\bin\Debug\Partb2.3.20.exe
+C:\Users\sagit\Source\Repos\Partb2.3.20\Partb2.3.20\bin\Debug\Partb2.3.20.pdb
+C:\Users\sagit\Source\Repos\Partb2.3.20\Partb2.3.20\obj\Debug\Partb2.3.20.csprojAssemblyReference.cache
+C:\Users\sagit\Source\Repos\Partb2.3.20\Partb2.3.20\obj\Debug\Partb2.3.20.csproj.CoreCompileInputs.cache
+C:\Users\sagit\Source\Repos\Partb2.3.20\Partb2.3.20\obj\Debug\Partb2.3.20.exe
+C:\Users\sagit\Source\Repos\Partb2.3.20\Partb2.3.20\obj\Debug\Partb2.3.20.pdb
